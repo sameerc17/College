@@ -11,7 +11,7 @@ int sno[t],at[t],bt[t],ct[t],tat[t],wt[t];
 for(int i=0;i<t;i++)
 {
 ct[i]=0;
-tat[i]=0;
+tat[i]=0; 
 wt[i]=0;
 }
 for(int i=0;i<t;i++)
